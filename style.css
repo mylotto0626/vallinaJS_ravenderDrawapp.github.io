@@ -1,3 +1,7 @@
+html>body{
+    position: -webkit-sticky !important;
+}
+
 body {
   background-color: #2d3436;
   text-align: center;
