@@ -2,7 +2,7 @@ body {
   background-color: #2d3436;
   text-align: center;
   color: #f781d8;
-  position: -webkit-sticky;
+  position: absolute;
 }
 
 h1 {
